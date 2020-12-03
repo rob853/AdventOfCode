@@ -1,5 +1,4 @@
-﻿using AdventOfCode.DayTwo;
-using System;
+﻿using System;
 
 namespace AdventOfCode
 {
@@ -7,7 +6,7 @@ namespace AdventOfCode
     {
         static void Main(string[] args)
         {
-            var answer = new Part2().GetAnswer();
+            var answer = new DayThree.Part2().GetAnswer();
 
             Console.WriteLine(answer);
         }
