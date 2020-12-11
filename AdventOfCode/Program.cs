@@ -6,7 +6,7 @@ namespace AdventOfCode
     {
         static void Main(string[] args)
         {
-            var answer = new DayEight.Part2().GetAnswer();
+            var answer = new DayNine.Part2().GetAnswer();
 
             Console.WriteLine(answer);
         }
